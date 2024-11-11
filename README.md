@@ -1,2 +1,4 @@
 # Akshay
-This is my first Git Repository.Author -Sai Akshay
+This is my first Git Repository.
+<br>
+Author -Sai Akshay
